@@ -1,0 +1,46 @@
+{
+  "name": "barcodefyi-embed",
+  "version": "1.0.0",
+  "description": "Embed BarcodeFYI barcode specification widgets — symbologies, anatomy, scanner standards. Zero dependencies, Shadow DOM, 3 themes.",
+  "main": "dist/embed.min.js",
+  "module": "dist/embed.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "barcode",
+    "EAN",
+    "UPC",
+    "ISBN",
+    "Code128",
+    "QR",
+    "symbology",
+    "GS1",
+    "embed",
+    "widget",
+    "specification",
+    "scanner",
+    "barcodefyi",
+    "barcodefyi.com",
+    "shadow-dom",
+    "zero-dependencies",
+    "fyipedia",
+    "tagfyi"
+  ],
+  "homepage": "https://widget.barcodefyi.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fyipedia/barcodefyi-embed"
+  },
+  "bugs": {
+    "url": "https://github.com/fyipedia/barcodefyi-embed/issues"
+  },
+  "license": "MIT",
+  "author": "FYIPedia <dev@fyipedia.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
