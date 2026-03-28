@@ -43,7 +43,7 @@ That's it. The widget fetches data from the BarcodeFYI API and renders with full
 | `data-barcodefyi` | spec, compare, features, glossary, faq, guide, search, [tools] | required | Widget type |
 | `data-slug` | e.g. "symbologies" | — | Entity slug from the BarcodeFYI database |
 | `data-theme` | light, dark, sepia, auto | light | Visual theme (`auto` follows OS preference) |
-| `data-style` | technical, modern | technical | Widget design style |
+| `data-styleVariant` | technical, modern | technical | Widget design style |
 | `data-size` | default, compact, large | default | Widget size |
 | `data-placeholder` | any string | "Search Barcode Symbologies…" | Search box placeholder |
 
