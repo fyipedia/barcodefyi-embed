@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# BarcodeFYI Embed Widget
+# Main site: https://barcodefyi.com
+# Widget docs: https://widget.barcodefyi.com
+# npm: https://www.npmjs.com/package/barcodefyi-embed
